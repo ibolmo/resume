@@ -6,19 +6,17 @@ Worked at Google, M.S. Electrical Engineer UCLA, Full stack web dev with knowled
 Founded Code RGV a 501(c)(3) non-profit. Nearly quarter of a million in donations, grants, and other fundraising. Have served over 1000 students across South Texas. In June we launched (boot) a tuition-free coding bootcamp backed by Texas Workforce Commission and Mission EDC. I'm the current Director and Instructor.
 
 ## SKILLS
-| skill | experience (years) | | skill | experience (years)
-|:-----:|------------|
-| PHP   | +10 | | JavaScript | +10
-| CSS | +10 | | HTML | +10
-| Adobe Photoshop | +10 | | REST APIs | +8
-| Adobe Illustrator | +7 | | Linux | +7
-| Jasmine | +5 | | BDD/TDD | +5
-| MySQL | +5 | | Python | +3
-| Node.JS | +3 | | Laravel | +2
-| ExpressJS | +2 | | React.JS | +1
-| MongoDB | +2 | | | | |
-
-PHP Javascript CSS HTML Laravel Node.js React.js Express.js MySQL MongoDB Mongoose Adobe Photoshop Adobe Illustrator Jasmine BDD/TDD Linux Web Application Security REST Ecmascript 6
+| skill | experience (years) | | skill | experience (years) |
+|:---:|:---:|---|:---:|:---:|
+| PHP   | +10 | | JavaScript | +10 | 
+| CSS | +10 | | HTML | +10 |
+| Adobe Photoshop | +10 | | REST APIs | +8 |
+| Adobe Illustrator | +7 | | Linux | +7 |
+| Jasmine | +5 | | BDD/TDD | +5 |
+| MySQL | +5 | | Python | +3 |
+| Node.JS | +3 | | Laravel | +2 |
+| ExpressJS | +2 | | React.JS | +1 |
+| MongoDB | +2 | | | | 
 
 ## Experience
 
