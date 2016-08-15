@@ -1,0 +1,21 @@
+{
+  "name": "ibolmo-resume",
+  "version": "1.0.0",
+  "description": "My professional resume.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibolmo/resume.git"
+  },
+  "keywords": [
+    "resume",
+    "Olmo",
+    "Maldonado",
+    "ibolmo"
+  ],
+  "author": {
+    "name": "Olmo Maldonado",
+    "email": "ibolmo@gmail.com",
+    "url": "http://github.com/ibolmo/"
+  },
+  "homepage": "https://github.com/ibolmo/resume#readme"
+}
