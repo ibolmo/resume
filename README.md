@@ -1,5 +1,7 @@
+![](https://d1qb2nb5cznatu.cloudfront.net/users/1755306-large?1471162655)
+
 # Olmo Maldonado
-Worked at Google, M.S. Electrical Engineer UCLA, Full stack web dev with knowledge in DevOps, founded & launched edu. tech non-profit serving
+Ex-Googler, Full Stack Software Engineer, M.S. Electrical Engineer UCLA, Founded & Launched Tech Education Non-Profit Serving South Texas
 
 ## ACHIEVEMENTS
 
