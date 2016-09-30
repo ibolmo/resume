@@ -1,4 +1,4 @@
-![](https://d1qb2nb5cznatu.cloudfront.net/users/1755306-large?1471162655)
+![](https://avatars1.githubusercontent.com/u/27246)
 
 # Olmo Maldonado
 Ex-Googler, Full Stack Software Engineer, M.S. Electrical Engineer UCLA, Founded & Launched Tech Education Non-Profit Serving South Texas
