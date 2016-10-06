@@ -3,6 +3,8 @@
 # Olmo Maldonado
 Ex-Googler, Full Stack Software Engineer, M.S. Electrical Engineer UCLA, Founded & Launched Tech Education Non-Profit Serving South Texas
 
+You can see a [PDF version here](https://github.com/ibolmo/resume/blob/master/resume.pdf). 
+
 ## ACHIEVEMENTS
 
 Founded Code RGV a 501(c)(3) non-profit. Nearly quarter of a million in donations, grants, and other fundraising. Have served over 1000 students across South Texas. In June we launched (boot) a tuition-free coding bootcamp backed by Texas Workforce Commission and Mission EDC. I'm the current Director and Instructor.
